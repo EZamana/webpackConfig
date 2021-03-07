@@ -1,0 +1,19 @@
+@import "roboto.css";
+
+.container {
+    margin: 100px;
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.logo {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    background-image: url("../assets/images/manchester_united_PNG26.png");
+    background-size: cover;
+}
